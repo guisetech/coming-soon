@@ -262,6 +262,7 @@ http://www.templatemo.com/tm-521-get-ready
     
    float: right;
    margin-left: -230px;
+   margin-top: 70px;
    
   
   }
@@ -276,6 +277,9 @@ http://www.templatemo.com/tm-521-get-ready
     height: 100%;
     text-align: left;
     top: 10px;
+  }
+  .menu-items ul.social-icon{
+    text-align: left;
   }
 
   .menu-items ul.menu li {
