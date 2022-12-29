@@ -243,7 +243,7 @@ http://www.templatemo.com/tm-521-get-ready
   }
 
   .menu-items {
-    display: flex;
+    display:block;
     flex-direction: column;
     justify-content: center;
     align-content: center;
@@ -256,6 +256,18 @@ http://www.templatemo.com/tm-521-get-ready
     margin-top: 50px;
     transform: translateY(-200%);
     pointer-events: none;
+    
+  }
+  .menu-items .row1{
+    
+   float: right;
+   margin-left: -230px;
+   
+  
+  }
+  .row1 h1{
+    display:block;
+    margin-top: -20px;
   }
 
   .menu-items ul.menu {
